@@ -8,7 +8,8 @@ namespace day01
 {
     class person
     {
-        public string Name { get; set; }
+        public string FristName { get; set; }
+        public string LastName { get; set; }
         public string Address { get; set; }
     }
 }
